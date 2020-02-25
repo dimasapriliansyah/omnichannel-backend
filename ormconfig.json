@@ -1,9 +1,9 @@
 {
   "type": "mysql",
-  "host": "localhost",
+  "host": "10.194.178.131",
   "port": 3306,
-  "username": "root",
-  "password": "",
+  "username": "octopush",
+  "password": "1Nfomedi@2018",
   "database": "on5-prototype",
   "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
